@@ -8,7 +8,7 @@ I am also helping to launch the [Maestro consortium](https://maestro-consortium.
 🥖 See you around! 🇫🇷
 
 
-| <a href="https://github.com/hugtalbot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hugtalbot&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hugtalbot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugtalbot&layout=compact&theme=shadow_green&hide_border=true" /></a> |
+| <a href="https://github.com/hugtalbot/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hugtalbot&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hugtalbot/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugtalbot&layout=compact&theme=shadow_green&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ![](https://www.sofa-framework.org/wp-content/uploads/2024/01/SOFA-features.png)
